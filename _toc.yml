@@ -1,0 +1,14 @@
+format: jb-book
+root: about
+parts:
+  - caption: Notes
+    chapters:
+      - file:  nsbepython
+  - caption: Resources
+    chapters:
+      - url: https://swcarpentry.github.io/shell-novice/
+        title: Shell Lesson
+      - url: https://swcarpentry.github.io/python-novice-gapminder/index.html
+        title: Python Lesson
+      - url: https://brownsarahm.github.io/2022-03-23-nsbe/
+        title: workshop website
